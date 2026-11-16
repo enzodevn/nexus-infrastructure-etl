@@ -1,0 +1,6 @@
+server_id,hostname,operating_system,cpu_usage,memory_usage,disk_usage,temperature,status
+SRV-001,SRV-001,Linux,35,54,42,42,Online
+SRV-002,SRV-002,Windows Server,96,85,78,72,Online
+SRV-003,SRV-003,Linux,42,67,93,81,Warning
+SRV-004,SRV-004,Windows Server,25,38,39,36,Online
+SRV-005,SRV-005,Linux,88,92,95,79,Warning
